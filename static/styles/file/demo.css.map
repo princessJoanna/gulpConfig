@@ -1,0 +1,6 @@
+/**
+ * lanmofang-bos 
+ * @version v0.0.11
+ * @description 此文件自动生成,请勿人工修改
+ */
+{"version":3,"sources":["file/demo.less"],"names":[],"mappings":"AAAA,YAEE,UAAA","file":"demo.css","sourcesContent":[".test {\n\t.name {\n\t\tfont-size:16px;\n\t}\n}"]}
